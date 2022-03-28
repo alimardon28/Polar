@@ -648,6 +648,7 @@ img{
     border-radius: 5px;
     width: 637px;
     height: 71px;
+    margin-bottom: 71px;
 }
 
 .form__input-text{
@@ -674,7 +675,6 @@ img{
 /* START FOOTER CSS */
 .footer{
     background-color: #000;
-    margin-top: 71px;
     margin-top: auto;
 }
 
